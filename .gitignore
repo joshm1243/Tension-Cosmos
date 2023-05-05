@@ -5,6 +5,7 @@ taming/
 wandb/
 dalle-ds-cp/
 /block_folder
+/services/outputs
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
